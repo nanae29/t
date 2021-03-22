@@ -1,7 +1,7 @@
 {
   "name": "กด ดูสารคดี และ หนัง หลัก",
   "author": "ใช้เม้าส์จากรีโมทกดไปช่อง",
-  "url": "https://github.com/nanae29/t/edit/main/m.txt",
+  "url": "https://github.com/nanae29/t5mn6k/edit/main/mt2354rt.txt",
   "image": "https://www.we-play.tv//uploads/posters/nat-geo-wild-poster1602705760.jpeg",
   "contact": "",
   "info": "tvonline",
