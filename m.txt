@@ -1,9 +1,9 @@
 {
-  "name": "w3u list",
-  "author": "w3u author",
-  "url": "https://pastebin.com/iZGHVCFR",
+  "name": "กด ดูหนัง",
+  "author": "สารคดี",
+  "url": "https://github.com/nanae29/t/edit/main/m.txt",
   "image": "https://i.imgur.com/5rjqSPj.png",
-  "contact": "w3u@testmail.com",
+  "contact": "",
   "info": "tvonline",
   "stations": [
     {
