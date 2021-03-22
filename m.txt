@@ -1,8 +1,8 @@
 {
-  "name": "กด ดูหนัง",
-  "author": "สารคดี",
+  "name": "กด ดูสารคดี และ หนัง",
+  "author": "ใช้เม้าส์จากรีโมทกดไปช่อง",
   "url": "https://github.com/nanae29/t/edit/main/m.txt",
-  "image": "https://i.imgur.com/5rjqSPj.png",
+  "image": "https://www.we-play.tv//uploads/posters/nat-geo-wild-poster1602705760.jpeg",
   "contact": "",
   "info": "tvonline",
   "stations": [
