@@ -41,12 +41,7 @@
       "referer": "https://we-play.tv/",
       "playInNatPlayer": "true"
     },
-    {
-      "name": "สำรวจโลก",
-      "image": "https://fewallaround.files.wordpress.com/2012/09/329468_10151024352777226_962601679_o2.jpg",
-      "url": "https://cdn6.goprimetime.info/feed/LC8/index.m3u8",
-      "playInNatPlayer": "true"
-    },
+    
     {
       "name": "History HD",
       "image": "https://www.we-play.tv//uploads/posters/history-hd-poster1602705667.jpeg",
@@ -61,12 +56,7 @@
       "referer": "https://we-play.tv/",
       "playInNatPlayer": "true"
     },
-    {
-      "name": "CGTN Documentary",
-      "image": "https://static.wikia.nocookie.net/logopedia/images/b/bb/CGTN_Documentary.png",
-      "url": "https://livedoc.cgtn.com/500d/prog_index.m3u8",
-      "playInNatPlayer": "true"
-    },
+   
     {
       "name": "FOX Movies เสียงไทย",
       "image": "https://img-cdn.we-play.tv/posters/-poster1602704489.jpeg",
@@ -144,13 +134,7 @@
       "referer": "https://we-play.tv/",
       "playInNatPlayer": "true"
     },
-    {
-      "name": "Paramount Channel",
-      "image": "https://img-cdn.we-play.tv/posters/-poster1602704632.jpeg",
-      "url": "https://we-play.tv/watching/tv/paramount-channel",
-      "referer": "https://we-play.tv/",
-      "playInNatPlayer": "true"
-    },
+    
     {
       "name": "Hits Movies",
       "image": "https://img-cdn.we-play.tv/posters/-poster1602704685.jpeg",
@@ -165,13 +149,7 @@
       "referer": "https://we-play.tv/",
       "playInNatPlayer": "true"
     },
-    {
-      "name": "True Thai Film",
-      "image": "http://tvsmagazine.com/images/channels/sm_THAIF.jpg",
-      "url": "https://www.we-play.tv/watching/tv/true-thai-film",
-      "referer": "https://we-play.tv/",
-      "playInNatPlayer": "true"
-    },
+   
     {
       "name": "True Asian Series",
       "image": "http://tvsmagazine.com/images/channels/sm_TASIAN.jpg",
